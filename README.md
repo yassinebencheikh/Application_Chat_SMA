@@ -1,2 +1,2 @@
 # Application_Chat_SMA
-Application Chat SMA
+Application de Chat par les systèmes multi agents (Framework JADE)
